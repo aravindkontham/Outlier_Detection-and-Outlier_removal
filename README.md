@@ -3,4 +3,5 @@ Outlier detection and removal using 3 main methods
 1.IQR:Inter Quartile Range
 2.Z-Score
 3.Percentile
+
 Download the titainc ipynb file for better experience
